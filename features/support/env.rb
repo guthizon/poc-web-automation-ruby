@@ -4,6 +4,7 @@ require 'site_prism'
 require 'rspec'
 require_relative 'helper.rb'
 require_relative 'page_helper.rb'
+require 'webdrivers'
 
 CONTEXTO = ENV['CONTEXTO']
 BROWSER = ENV['BROWSER'].nil? ? 'firefox' : ENV['BROWSER']
