@@ -1,5 +1,6 @@
 #language: pt
 
+@test
 Funcionalidade: Realizar Compra
 
     Como cliente da loja Automation,
