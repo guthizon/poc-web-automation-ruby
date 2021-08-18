@@ -1,0 +1,14 @@
+---
+
+default: -p pretty -p html -p main -p firefox -p headless -p teste
+central: CENTRAL='1'
+features: --require features './features/specs/'
+pretty: --format pretty
+html: --format html --out=report/report.html
+main: CONTEXTO=main
+teste: --tags @test
+retry: --retry 1
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
+headless: HEADLESS=sim
+console: MOSTRA_CONSOLE=ligado

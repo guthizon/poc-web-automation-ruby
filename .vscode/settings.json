@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.autofetchPeriod": 30,
+    "ruby.codeCompletion": "rcodetools",
+    "git.enableSmartCommit": true,
+    "cucumberautocomplete.steps": [
+        "features/step_definitions/*.rb"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.syncfeatures": "features/specs/*feature",
+}
