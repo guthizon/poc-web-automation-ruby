@@ -25,6 +25,6 @@ Gustavo Thizon Waterkemper
 
 <p>
   <a href="https://www.linkedin.com/in/gustavo-thizon/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Gustavo Thizon
   </a> &nbsp; 
 </p>
